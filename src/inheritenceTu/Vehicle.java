@@ -20,4 +20,8 @@ public class Vehicle {
 		System.out.println("This is only in vehicle class");
 	}
 
+	private void handBrakes() {
+
+		System.out.print("Apply hand break");
+	}
 }
