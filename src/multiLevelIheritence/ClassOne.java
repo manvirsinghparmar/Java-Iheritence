@@ -6,4 +6,8 @@ public class ClassOne extends Parent {
 		System.out.println("This is class one method");
 	}
 
+	public void methodadded() {
+
+		System.out.println("hello");
+	}
 }
