@@ -12,6 +12,11 @@ public class Vehicle {
 		System.out.println("My car name is BMW");
 	}
 
+	public void myCar() {
+		System.out.println("My Car is Corolla");
+
+	}
+
 	public void stopEngine() {
 		System.out.println("Engine Stoped");
 	}
