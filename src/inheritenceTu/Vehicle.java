@@ -7,14 +7,10 @@ public class Vehicle {
 	public void startEngine() {
 		System.out.println("Engine Started");
 	}
-	
-	public void newCar() {
-		System.out.println("My car name is BMW");
-		System.out.println("BMW has dent");
-	}
 
 	public void newCar() {
 		System.out.println("My car name is BMW");
+		System.out.println("BMW has dent");
 	}
 
 	public void myCar() {
