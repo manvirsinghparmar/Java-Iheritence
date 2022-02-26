@@ -8,6 +8,10 @@ public class Vehicle {
 		System.out.println("Engine Started");
 	}
 
+	public void myCar() {
+		System.out.println("My Car is Corolla");
+	}
+
 	public void stopEngine() {
 		System.out.println("Engine Stoped");
 	}
